@@ -1,16 +1,78 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+# Aaroh – E-Commerce Product Storefront
 
-Currently, two official plugins are available:
+A responsive e-commerce product storefront built using **React, Vite, and Tailwind CSS**. Users can explore products, search and filter items, select product variants, manage their shopping cart, and complete a demo checkout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Responsive design for desktop, tablet, and mobile.
+- Product catalog with 12 products.
+- Search products by name or category.
+- Filter products by category.
+- Sort products by price and rating.
+- Individual product details pages.
+- Product variant selection before adding to cart.
+- Shopping cart with quantity controls and item removal.
+- Cart persistence using Local Storage.
+- Automatic subtotal, 18% GST, and shipping calculations.
+- Checkout form with validation.
+- Order confirmation with a generated order ID.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the Oxlint configuration
+- React
+- Vite
+- Tailwind CSS
+- React Router DOM
+- JavaScript
+- HTML5
+- Local Storage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/binis2468-maker/aaroh-ecommerce-store.git
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd aaroh-ecommerce-store
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal.
+
+## Shopping & Checkout Details
+
+- GST is calculated at 18%.
+- Free shipping is available for orders above ₹1,999.
+- A ₹99 shipping charge applies to other orders.
+- This project demonstrates a frontend checkout flow only.
+
+## Project Scope
+
+This is a frontend-only demonstration project. It does not use a backend, database, or real payment gateway. Product information is stored locally, and cart data is maintained using browser Local Storage.
+
+## Author
+
+**Bini S Biju**
+
+GitHub: [binis2468-maker](https://github.com/binis2468-maker)
+
+---
+
+Built with React and Tailwind CSS.
