@@ -1,0 +1,135 @@
+
+[
+  {
+    "id": "prod-aeropulse-01",
+    "name": "AeroPulse Wireless ANC Headphones",
+    "category": "Audio",
+    "price": 3499,
+    "rating": 4.7,
+    "inStock": true,
+    "variants": ["Matte Black", "Arctic White", "Navy Blue"],
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "description": "Over-ear wireless headphones with active noise cancellation and 35-hour battery life."
+  },
+  {
+    "id": "prod-sonic-02",
+    "name": "SonicBeat Bluetooth Speaker",
+    "category": "Audio",
+    "price": 1999,
+    "rating": 4.5,
+    "inStock": true,
+    "variants": ["Black", "Blue", "Red"],
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&q=80",
+    "description": "Portable Bluetooth speaker with powerful sound and long-lasting battery."
+  },
+  {
+    "id": "prod-air-03",
+    "name": "AirPods Wireless Earbuds",
+    "category": "Audio",
+    "price": 2499,
+    "rating": 4.6,
+    "inStock": true,
+    "variants": ["White", "Black"],
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=900&q=80",
+    "description": "Compact wireless earbuds with clear audio and comfortable fit."
+  },
+  {
+    "id": "prod-smartwatch-04",
+    "name": "PulseFit Smart Watch",
+    "category": "Wearables",
+    "price": 2999,
+    "rating": 4.8,
+    "inStock": true,
+    "variants": ["Black", "Silver", "Rose Gold"],
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "description": "Smart watch with fitness tracking, notifications and stylish design."
+  },
+  {
+    "id": "prod-fitness-05",
+    "name": "FitTrack Sports Band",
+    "category": "Wearables",
+    "price": 1499,
+    "rating": 4.3,
+    "inStock": true,
+    "variants": ["Black", "Blue", "Pink"],
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?auto=format&fit=crop&w=900&q=80",
+    "description": "Lightweight fitness band for everyday activity tracking."
+  },
+  {
+    "id": "prod-backpack-06",
+    "name": "Urban Explorer Backpack",
+    "category": "Accessories",
+    "price": 1799,
+    "rating": 4.6,
+    "inStock": true,
+    "variants": ["Black", "Grey", "Olive"],
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+    "description": "Modern everyday backpack with spacious compartments and durable material."
+  },
+  {
+    "id": "prod-sunglasses-07",
+    "name": "Classic SunGlasses",
+    "category": "Accessories",
+    "price": 999,
+    "rating": 4.2,
+    "inStock": true,
+    "variants": ["Black", "Brown"],
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=900&q=80",
+    "description": "Stylish sunglasses designed for everyday outdoor use."
+  },
+  {
+    "id": "prod-watch-08",
+    "name": "Minimal Leather Watch",
+    "category": "Accessories",
+    "price": 2299,
+    "rating": 4.5,
+    "inStock": true,
+    "variants": ["Black", "Brown"],
+    "image": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?auto=format&fit=crop&w=900&q=80",
+    "description": "Elegant minimalist watch with a comfortable leather strap."
+  },
+  {
+    "id": "prod-tshirt-09",
+    "name": "Essential Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 699,
+    "rating": 4.4,
+    "inStock": true,
+    "variants": ["S", "M", "L", "XL"],
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "description": "Comfortable premium cotton T-shirt for everyday wear."
+  },
+  {
+    "id": "prod-sneakers-10",
+    "name": "StreetStyle Sneakers",
+    "category": "Apparel",
+    "price": 2799,
+    "rating": 4.7,
+    "inStock": true,
+    "variants": ["UK 6", "UK 7", "UK 8", "UK 9"],
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "description": "Trendy everyday sneakers with comfortable cushioning."
+  },
+  {
+    "id": "prod-hoodie-11",
+    "name": "Premium Casual Hoodie",
+    "category": "Apparel",
+    "price": 1899,
+    "rating": 4.6,
+    "inStock": true,
+    "variants": ["S", "M", "L", "XL"],
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=900&q=80",
+    "description": "Soft and stylish hoodie suitable for casual everyday outfits."
+  },
+  {
+    "id": "prod-wallet-12",
+    "name": "Classic Leather Wallet",
+    "category": "Accessories",
+    "price": 899,
+    "rating": 4.3,
+    "inStock": false,
+    "variants": ["Black", "Brown"],
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=900&q=80",
+    "description": "Compact wallet with multiple card slots and a classic finish."
+  }
+]
